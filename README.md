@@ -8,7 +8,7 @@ I started learning about CS in high school and when we started coding I fell in 
 
 ### My future
 
-This year I will (hopefully) get my Bachelor's, then I'd like to stay here in Genoa and get my Master's in Computer Science. The area I would like to study the most is Artificial Intelligence, a subject that really permeates our lives more and more everyday. After that, I would like to work in the same field. However, maybe, there will be a Master or a course that I will attend: I don't kwnow what the future has for me in store.
+This year I will (hopefully) get my Bachelor's, then I'd like to stay here in Genoa and get my Master's in Computer Science. The area I would like to study the most is Artificial Intelligence, a subject that really permeates our lives more and more everyday. After that, I would like to work in the same field. However, maybe, there will be a Master or a course that I will attend: I don't know what the future has in store for me.
 
 ### My curriculum
 
