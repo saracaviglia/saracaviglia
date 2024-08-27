@@ -16,7 +16,7 @@ The languages I used in my uni courses are:
 
 - C  
 - C++
-- Python
+- Python (pandas, numpy, scikit, qiskit, matplotlib)
 - Java
 - SQL
 - PHP
