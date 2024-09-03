@@ -1,25 +1,19 @@
-# Welcome to my GitHub page!
+# 💫 About Me:
+Welcome to my GitHub page!<br><br>My story with Computer Science<br><br>My name is Sara. I am a CS student at the University of Genoa, in Italy. <br>I choose Computer Science because I was interested in how can we communicate with and through machines. Since I'm finishing my Bachelor's Degree, I've explored a fair number of fields and languages for CS's applications.<br>I started learning about CS in high school and when we started coding I fell in love. In my third year I decided what I wanted to major in. During the fourth year, right before the lockdown, I took part in a stage offered by the University of Genoa: we learnt a lot about the course and about ourselves (and some Python too). After my final exam I was excited to finally study what I really enjoyed, and not what I had to.<br><br>My future<br><br>This year I will (hopefully) get my Bachelor's, then I'd like to stay here in Genoa and get my Master's in Computer Science. The area I would like to study the most is Artificial Intelligence, a subject that really permeates our lives more and more everyday. After that, I would like to work in the same field. However, maybe, there will be a Master or a course that I will attend: I don't know what the future has in store for me.<br><br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saracaviglia27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saracaviglia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saracaviglia27) 
 
-### My story with Computer Science
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saracaviglia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saracaviglia&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saracaviglia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-My name is Sara. I am a CS student at the University of Genoa, in Italy. 
-I choose Computer Science because I was interested in how can we communicate with and through machines. Since I'm finishing my Bachelor's Degree, I've explored a fair number of fields and languages for CS's applications.
-I started learning about CS in high school and when we started coding I fell in love. In my third year I decided what I wanted to major in. During the fourth year, right before the lockdown, I took part in a stage offered by the University of Genoa: we learnt a lot about the course and about ourselves (and some Python too). After my final exam I was excited to finally study what I really enjoyed, and not what I had to.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saracaviglia&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4)
 
-### My future
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-This year I will (hopefully) get my Bachelor's, then I'd like to stay here in Genoa and get my Master's in Computer Science. The area I would like to study the most is Artificial Intelligence, a subject that really permeates our lives more and more everyday. After that, I would like to work in the same field. However, maybe, there will be a Master or a course that I will attend: I don't know what the future has in store for me.
-
-### My curriculum
-
-The languages I used in my uni courses are:
-
-- C  
-- C++
-- Python (pandas, numpy, scikit, qiskit, matplotlib)
-- Java
-- SQL
-- PHP
-- JavaScript
-- HTML and CSS (not programming languages, I know)
-- Matlab
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
