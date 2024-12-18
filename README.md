@@ -1,5 +1,5 @@
 ## 👋 About me:
-Hi! I'm Sara and I'm a CS student in Italy. I'm currently finishing my Bachelor's in Computer Science and starting my MSc in Artificial Intelligence. <br>
+Hi! I'm Sara and I'm a CS student in Italy. I got my Bachelor's Degree in Computer Science in December 2024, and I'm currently studying for my MSc in Artificial Intelligence. <br>
 ❤️ I like music, books, playing the guitar and coding.<br>
 💔 I dislike cheese and bugs. 🐛<br>
 🎨 My favourite part of CS is the creativity you need to solve some problems.<br>
